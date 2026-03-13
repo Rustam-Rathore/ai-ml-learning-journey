@@ -15,9 +15,9 @@ The purpose of this repository is to **strengthen my AI/ML fundamentals and show
 ```
 AI-ML-Learning-Journey
 │
-├── day01.ipynb
-├── day02.ipynb
-├── day03.ipynb
+├── 01_python_basics.ipynb
+├── 02_python_logic_building.ipynb
+├── 03_machine_learning_intro.ipynb
 └── README.md
 ```
 
