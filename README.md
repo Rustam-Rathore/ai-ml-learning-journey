@@ -18,6 +18,9 @@ AI-ML-Learning-Journey
 ├── 01_python_basics.ipynb
 ├── 02_python_logic_building.ipynb
 ├── 03_machine_learning_intro.ipynb
+├── 04_first_machine_learning_model.ipynb
+├── 05_improving_ml_project.ipynb
+├── 06_improve_model_performance_correctly.ipynb
 └── README.md
 ```
 
@@ -74,7 +77,41 @@ def placement_prediction(cgpa):
     else:
         return "Needs improvement"
 ```
+---
+Day 04 – NumPy Fundamentals
 
+Introduction to NumPy
+
+Creating arrays
+
+Understanding dataset structures
+
+Basic numerical operations
+
+---
+---
+Day 05 – Data Handling with NumPy
+
+Array indexing
+
+Array slicing
+
+Working with rows and columns
+
+Data structure basics for ML
+
+---
+
+---
+Day 06 – Preparing Data for Machine Learning
+
+Understanding features and datasets
+
+Data preparation basics
+
+Structuring data for ML workflows
+
+---
 ---
 
 # Technologies Used
@@ -98,16 +135,17 @@ def placement_prediction(cgpa):
 
 ---
 
-# Upcoming Topics
+# Skills Practiced
 
-Future updates in this repository:
+Python Programming
 
-* NumPy Deep Practice
-* Pandas Data Analysis
-* Data Visualization
-* Machine Learning Models
-* Mini ML Projects
-* End-to-End Data Science Projects
+Logic Building
+
+NumPy for Data Handling
+
+Machine Learning Fundamentals
+
+Data Structure Understanding
 
 ---
 
