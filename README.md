@@ -78,7 +78,7 @@ def placement_prediction(cgpa):
         return "Needs improvement"
 ```
 ---
-Day 04 – NumPy Fundamentals
+### Day 04 – NumPy Fundamentals
 
 Introduction to NumPy
 
@@ -89,7 +89,7 @@ Understanding dataset structures
 Basic numerical operations
 
 ---
-Day 05 – Data Handling with NumPy
+### Day 05 – Data Handling with NumPy
 
 Array indexing
 
@@ -100,7 +100,7 @@ Working with rows and columns
 Data structure basics for ML
 
 ---
-Day 06 – Preparing Data for Machine Learning
+### Day 06 – Preparing Data for Machine Learning
 
 Understanding features and datasets
 
