@@ -89,7 +89,6 @@ Understanding dataset structures
 Basic numerical operations
 
 ---
----
 Day 05 – Data Handling with NumPy
 
 Array indexing
@@ -101,8 +100,6 @@ Working with rows and columns
 Data structure basics for ML
 
 ---
-
----
 Day 06 – Preparing Data for Machine Learning
 
 Understanding features and datasets
@@ -111,7 +108,6 @@ Data preparation basics
 
 Structuring data for ML workflows
 
----
 ---
 
 # Technologies Used
