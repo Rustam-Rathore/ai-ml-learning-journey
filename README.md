@@ -21,6 +21,9 @@ AI-ML-Learning-Journey
 ├── 04_first_machine_learning_model.ipynb
 ├── 05_improving_ml_project.ipynb
 ├── 06_improve_model_performance_correctly.ipynb
+├── 07_model_evaluation_and_selection.ipynb
+├── 08_advanced_model_evaluation.ipynb
+├── 09_hyperparameter_tuning_and_CV.ipynb
 └── README.md
 ```
 
@@ -107,6 +110,39 @@ Understanding features and datasets
 Data preparation basics
 
 Structuring data for ML workflows
+
+---
+### Day 07 – Model Evaluation and selection 
+
+Understanding model evaluation techniques
+
+Comparing performance of multiple models
+
+Selecting the best model based on metrics
+
+Building foundation for data-driven decision making
+
+---
+### Day 08 – Advanced Model Evaluation
+
+Understanding advanced evaluation techniques
+
+Analyzing model performance beyond accuracy
+
+Identifying overfitting and underfitting
+
+Improving model reliability and performance
+
+---
+### Day 09 – Hyperparameter Tuning and Cross Validation
+
+Understanding hyperparameter tuning concepts
+
+Improving model performance through optimization
+
+Applying cross-validation for better generalization
+
+Ensuring model stability and consistency
 
 ---
 
