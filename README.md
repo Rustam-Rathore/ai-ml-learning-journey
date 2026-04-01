@@ -24,6 +24,9 @@ AI-ML-Learning-Journey
 ├── 07_model_evaluation_and_selection.ipynb
 ├── 08_advanced_model_evaluation.ipynb
 ├── 09_hyperparameter_tuning_and_CV.ipynb
+├── 10_feature_engineering_and_data_improvement.ipynb
+├── 11_model_explainability_and_interpretation.ipynb
+├── 12_final_realistic_project.ipynb
 └── README.md
 ```
 
@@ -143,6 +146,40 @@ Improving model performance through optimization
 Applying cross-validation for better generalization
 
 Ensuring model stability and consistency
+
+---
+### Day 10 – Feature Engineering & Data Improvement
+
+Created derived features to improve data representation
+
+Identified key variables influencing model performance  
+
+Transformed raw data into meaningful inputs  
+
+Improved model accuracy through better feature design 
+
+---
+### Day 11 – Model Explainability & Interpretation
+
+Analyzed model coefficients to understand feature impact  
+
+Interpreted predictions in a clear and practical manner  
+
+Addressed black-box limitations of machine learning models  
+
+Improved transparency and trust in model outputs  
+
+
+---
+### Day 12 – FINAL REALISTIC PROJECT
+
+Built and compared multiple models (Logistic Regression, KNN, Decision Tree)  
+
+Analyzed performance with and without feature scaling  
+
+Applied GridSearchCV for hyperparameter tuning  
+
+Developed a final prediction system based on the best-performing model
 
 ---
 
